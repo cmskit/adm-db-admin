@@ -1,0 +1,19 @@
+{
+    "name": "cms-kit admin wizard database administration",
+    "type": "library",
+    "version": "0.9.0",
+    "description": "Database-administration based on Adminer",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Christoph Taubmann",
+            "email": "info@cms-kit.com"
+        }
+    ],
+    "homepage": "http://cms-kit.com",
+
+    "require": {
+        "php": ">=5.3.3",
+        "cmskit/lib-jquery-ui": "dev-master"
+    }
+}
