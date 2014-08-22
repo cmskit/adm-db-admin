@@ -1,5 +1,5 @@
 {
-    "name": "cms-kit admin wizard database administration",
+    "name": "cmskit/admin-database-wizard",
     "type": "library",
     "version": "0.9.0",
     "description": "Database-administration based on Adminer",
