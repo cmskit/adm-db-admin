@@ -50,7 +50,7 @@ function createHiddenFields($i)
 <title>Database-Admin</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1" />
-<link href="../../../vendor/cmskit/lib-jquery-ui/themes/<?php echo end($_SESSION[$projectName]['settings']['interface']['theme'])?>/jquery-ui.css" rel="stylesheet" />
+<link href="../../../vendor/cmskit/jquery-ui/themes/<?php echo end($_SESSION[$projectName]['settings']['interface']['theme'])?>/jquery-ui.css" rel="stylesheet" />
 
 <style>
 body{
