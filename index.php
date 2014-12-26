@@ -82,15 +82,18 @@ button {
 
 </head>
 <body>
+
 <button 
-	id="framebreak"
-	class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only" 
-	title="open in new Window"
-	type="button" role="button" aria-disabled="false"
-	onclick="window.open(document.location, document.title)"
+		id="framebreak"
+		class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only"
+		title="open in new Window"
+		type="button"
+		role="button"
+		aria-disabled="false"
+		onclick="window.open(document.location, document.title)"
 	>
 	<span class="ui-button-icon-primary ui-icon ui-icon-newwin"></span>
-	<span class="ui-button-text"></span>
+	<span class="ui-button-text">.</span>
 </button>
 
 <div id="wrapper">
